@@ -38,6 +38,6 @@ Check My Website: [asgarovfarhad.com]
 ---
 
 [asgarovfarhad.com]: http://asgarovfarhad.com
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/asgarovf
 [instagram]: https://instagram.com/asgarovvv
 [linkedin]: https://linkedin.com/asgarovf
