@@ -1,6 +1,6 @@
 ### Hi there, I'm Farhad Asgarov 👋 
 
-Check My Website: [asgarovfarhad.com]
+Check My Website: [web.itu.edu.tr/asgarovf19]
 
 ## I'm student at Istanbul Technical University!
 
@@ -37,7 +37,7 @@ Check My Website: [asgarovfarhad.com]
 
 ---
 
-[asgarovfarhad.com]: http://asgarovfarhad.com
+[web.itu.edu.tr/asgarovf19]: https://web.itu.edu.tr/asgarovf19/
 [twitter]: https://twitter.com/asgarovf
 [instagram]: https://instagram.com/asgarovvv
 [linkedin]: https://www.linkedin.com/in/asgarovf/
