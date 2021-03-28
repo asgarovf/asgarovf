@@ -2,12 +2,7 @@
 
 Check My Website: [web.itu.edu.tr/asgarovf19]
 
-## I'm student at Istanbul Technical University!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Improve my web development skills
-- ⚡ Fun fact: I love writing codes with music
+## I'm student at Istanbul Technical University
 
 ### Connect with me:
 
