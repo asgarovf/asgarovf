@@ -26,10 +26,6 @@ Software Engineer who is interested in creating efficient solutions for difficul
 
 ---
 
-<a href="https://app.daily.dev/asgarovf"><img src="https://api.daily.dev/devcards/898263f1c69b44e1b08c15a6e79b9eb5.png?r=uep" width="400" alt="Farhad Asgarov's Dev Card"/></a>
-
-[![Farhad Asgarov's GitHub stats](https://github-readme-stats.vercel.app/api?username=asgarovf&hide_title=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 [web.itu.edu.tr/asgarovf19]: https://web.itu.edu.tr/asgarovf19/
 [twitter]: https://twitter.com/asgarovf
 [instagram]: https://instagram.com/asgarovvv
