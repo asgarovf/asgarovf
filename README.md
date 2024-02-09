@@ -1,4 +1,4 @@
-### Hi there, I'am Farhad Asgarov 👋 
+### Hi there, I'am Farhad (far-had) 👋 
 
 ### About
 
